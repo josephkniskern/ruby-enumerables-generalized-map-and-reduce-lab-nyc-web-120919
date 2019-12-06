@@ -12,7 +12,9 @@ end
 
 def reduce(array, starting_point=nil)
   if starting_point
-    sum = 
+    sum = starting_point
+  else 
+    
   
 end
   
