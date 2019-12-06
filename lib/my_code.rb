@@ -12,3 +12,5 @@ end
 
 def reduce(array=0)
   
+end
+  
