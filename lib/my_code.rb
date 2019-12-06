@@ -5,7 +5,9 @@ def map(array)
     new_array << yield(array[i])
     
     i += 1 
-  end 
+  end
+  
+  return new_array
 end 
 
 
